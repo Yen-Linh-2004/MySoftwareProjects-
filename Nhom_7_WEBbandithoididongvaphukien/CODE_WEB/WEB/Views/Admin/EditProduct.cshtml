@@ -1,0 +1,146 @@
+﻿@model WEB.Models.SANPHAM
+@{
+    ViewBag.Title = "Chỉnh Sửa Sản Phẩm";
+    Layout = "~/Views/Admin_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header text-center text-primary">Chỉnh Sửa Sản Phẩm</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="card-title">Thông Tin Sản Phẩm</h5>
+                </div>
+                <div class="card-body">
+                    @using (Html.BeginForm("EditProduct", "Admin", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.HiddenFor(m => m.MaSanPham)
+
+                        <div class="form-group mb-3">
+                            @Html.LabelFor(m => m.TenSanPham, "Tên Sản Phẩm", new { @class = "form-label" })
+                            @Html.TextBoxFor(m => m.TenSanPham, new { @class = "form-control", placeholder = "Nhập tên sản phẩm" })
+                            @Html.ValidationMessageFor(m => m.TenSanPham, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            @Html.LabelFor(m => m.MaDanhMuc, "Danh Mục", new { @class = "form-label" })
+                            @Html.DropDownList("MaDanhMuc", (SelectList)ViewBag.DanhMuc, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.MaDanhMuc, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            @Html.LabelFor(m => m.MoTa, "Mô Tả", new { @class = "form-label" })
+                            @Html.TextAreaFor(m => m.MoTa, new { @class = "form-control", placeholder = "Nhập mô tả sản phẩm" })
+                            @Html.ValidationMessageFor(m => m.MoTa, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            @Html.LabelFor(m => m.GiaBan, "Giá Bán", new { @class = "form-label" })
+                            @Html.TextBoxFor(m => m.GiaBan, new { @class = "form-control", placeholder = "Nhập giá bán" })
+                            @Html.ValidationMessageFor(m => m.GiaBan, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            @Html.LabelFor(m => m.SoLuongTon, "Số Lượng Tồn", new { @class = "form-label" })
+                            @Html.TextBoxFor(m => m.SoLuongTon, new { @class = "form-control", placeholder = "Nhập số lượng tồn" })
+                            @Html.ValidationMessageFor(m => m.SoLuongTon, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            @Html.LabelFor(m => m.HinhAnh, "Hình Ảnh", new { @class = "form-label" })
+                            <div class="mb-2">
+                                @if (!string.IsNullOrEmpty(Model.HinhAnh))
+                                {
+                                    <img src="@Url.Content("~/images/" + Model.HinhAnh)" alt="Hình ảnh sản phẩm" class="img-fluid" style="max-width: 200px; height: auto;">
+                                }
+                                else
+                                {
+                                    <p>Chưa có hình ảnh sản phẩm</p>
+                                }
+                            </div>
+                            @Html.TextBoxFor(m => m.HinhAnh, new { @class = "form-control", placeholder = "Nhập tên hình ảnh" })
+                            @Html.ValidationMessageFor(m => m.HinhAnh, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            @Html.LabelFor(m => m.TrangThai, "Trạng Thái", new { @class = "form-label" })
+                            @Html.DropDownListFor(m => m.TrangThai,
+                                new List<SelectListItem> {
+                                    new SelectListItem { Text = "Còn hàng", Value = "Còn hàng" },
+                                    new SelectListItem { Text = "Hết hàng", Value = "Hết hàng" },
+                                    new SelectListItem { Text = "Gần Hết", Value = "Gần Hết" }
+                                },
+                                new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.TrangThai, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-success btn-lg">
+                                <i class="bi bi-save"></i> Lưu Thay Đổi
+                            </button>
+                            <a href="@Url.Action("ListProducts")" class="btn btn-secondary btn-lg ms-3">
+                                <i class="bi bi-arrow-left"></i> Quay Lại
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Style thêm để làm đẹp hơn -->
+<style>
+    .page-header {
+        margin-top: 30px;
+        margin-bottom: 40px;
+        font-size: 2.2rem;
+        font-weight: bold;
+    }
+
+    .card {
+        border-radius: 12px;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        box-shadow: none;
+    }
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        border-color: #28a745;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+
+    .btn-lg {
+        padding: 0.8rem 2rem;
+        font-size: 1.1rem;
+    }
+</style>

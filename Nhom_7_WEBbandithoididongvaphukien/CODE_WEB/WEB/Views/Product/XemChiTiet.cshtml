@@ -1,0 +1,125 @@
+﻿@model WEB.Models.Detail_SanPham
+
+@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/_LayoutPage.cshtml";
+}
+<style>
+    table tr th {
+        font-size: 2.5rem;
+        padding:5px;
+    }
+
+    table tr td {
+        font-size: 2.5rem;
+        padding-left:20px;
+    }
+</style>
+
+<div class="container">
+    <h1 class="text-center" style="font-size:4.0rem; margin-top:-20px; margin-bottom:20px">CHI TIẾT SẢN PHẨM</h1>
+    <div class="row mb-4" style="border:2px solid black; border-radius:5px; padding:20px 30px; height:500px">
+        <div class="col-md-4">
+            <img src="~/Images/img_Product/@Model.HinhAnh" style="width:auto; height:95%; margin-left:-20px; display:flex; justify-content:center; align-items:center"/>
+        </div>
+        <!-- Book Details -->
+        <div class="col-md-8">
+            <table style="margin-top:20px">
+                <tr>
+                    <th>Tên sản phẩm:</th>
+                    <td style="color:blue"><b>@Model.TenSanPham</b></td>
+                </tr>
+                <tr>
+                    <th>Giá bán:</th>
+                    <td><span style="color: red; font-weight: bold;">@String.Format("{0:#.000 VND}", Convert.ToDouble(@Model.GiaBan) / 1000)</span></td>
+                </tr>
+                <tr>
+                    <th>Chủ Đề:</th>
+                    <td style="color:blue">@Model.DanhMuc</td>
+                </tr>
+                <tr>
+                    <th>NXB:</th>
+                    <td>@Model.NhaCungCap</td>
+                </tr>
+                <tr>
+                    <th>Nội dung tóm tắt:</th>
+                    <td>@Model.MoTa</td>
+                </tr>
+                <tr>
+                    <th>Chính sách trả hàng:</th>
+                    <td>Trả hàng trong 15 ngày Đổi hàng miễn phí</td>
+                </tr>
+            </table>
+
+            <div style="margin-top:40px">
+                <a href="@Url.Action("ThemGioHang", "GioHang", new { @ms = Model.MaSanPham, @strURL = Request.Url.ToString()})" class="btn btn-primary">Mua ngay</a>
+                <a href="@Url.Action("Index", "Home")" class="btn btn-secondary" style="margin-left:15px">Mua tiếp</a>
+            </div>
+        </div>
+    </div>
+    <div>
+        ĐÁNH GIÁ SẢN PHẨM
+        for
+    </div>
+</div>
+
+
+
+
+@*<div class="container margin-bottom-sm" style="display:flex">
+            <div class="right">
+                <div class="right-box">
+                    <div class="main-image-box">
+                        <img src="~/Images/img_Product/@Model.HinhAnh" alt="Ảnh sản phẩm" style=" height: auto; width: 600px;" />
+                    </div>
+                </div>
+            </div>
+            <div class="product-info">
+                <div class="product-info-item">
+                    <div class="product-info-item-favourite" style="width:auto">Yêu thích+</div>
+                    <div class="product-info-item-par"><h2>@Model.TenSanPham</h2></div>
+                </div>
+                <div class="product-info-rating">
+                    <div class="product-info-rating-value">
+                        <u>4.9</u>
+                        <i class="product-info-rating-icon fa fa-star"></i>
+                        <i class="product-info-rating-icon fa fa-star"></i>
+                        <i class="product-info-rating-icon fa fa-star"></i>
+                        <i class="product-info-rating-icon fa fa-star"></i>
+                        <i style="color:black" class="product-info-rating-icon fa fa-star"></i>
+                    </div>
+                    <span class="product-info-rating-value">3.6K Đánh giá</span>
+                    <span class="product-info-rating-value" style="border:none">1.2K Đã bán</span>
+                </div>
+                <div>
+                    <div class="product-info-price">
+                        <b>@Model.GiaBan<span>đ</span></b>
+                    </div>
+                    <p style="font-size:2.1rem">Chính sách trả hàng: Trả hàng trong 15 ngày <span style="color:dimgrey">Đổi hàng miễn phí</span></p>
+                    <p style="font-size:2.1rem">Nhà sản xuất: @Model.NhaCungCap</p>
+                    <p style="font-size:2.1rem">Mô tả: @Model.MoTa</p>
+                </div>
+                <main style="margin-top:20px">
+                    <div class="container1">
+                        <p style="font-size:2.1rem">Số lượng:</p>
+                        <div class="button-container">
+                            <button class="btn1 decrease">-</button>
+                            <span id="value">1</span>
+                            <button class="btn1 increase">+</button>
+                        </div>
+                    </div>
+                </main>
+                <div class="product-info-cart">
+                    <button type="button" class="product-info-cart-icon">
+                        <div class="product-info-cart-icon-item">
+                            <div class="header__cart-wrap">
+                                <i class="header__cart-icon fa fa-cart-plus"></i>
+                            </div>
+                            <div style="display: inline-block; display: flex; align-items:center;justify-content:center; font-size:2.2rem; border-radius:8px">Thêm vào giỏ hàng</div>
+                        </div>
+                    </button>
+                    <button type="button" class="product-info-cart-buy">Mua ngay</button>
+                </div>
+            </div>
+
+    </div>*@

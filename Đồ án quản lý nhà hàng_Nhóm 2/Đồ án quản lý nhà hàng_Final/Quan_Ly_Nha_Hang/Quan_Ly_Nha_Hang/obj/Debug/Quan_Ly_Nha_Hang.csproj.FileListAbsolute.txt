@@ -1,0 +1,1487 @@
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - Copy\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang - 2\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_3\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_4 - test\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DoiMatKhau_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DoiMatKhau_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\test đồ án\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DoiMatKhau_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.Interfaces.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.dll
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.pdb
+D:\Tài Liệu Đại Học\test\test đồ án - Copy\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.Interfaces.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DoiMatKhau_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DoiMatKhau_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.Interfaces.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng _test_datamoiw\Quan_Ly_Nha_Hang_5\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.Interfaces.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.pdb
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DoiMatKhau_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\test\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.AssemblyReference.cache
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.SuggestedBindingRedirects.cache
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DangNhap_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.DoiMatKhau_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Main_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MoBan_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForOrder_UserControler.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.MonAn_ForThucDon_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhanVien_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.NhapNguyenLieu.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChinhSua_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ChuyenBan_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_DatBan_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_Main_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_QR_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThanhToan_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_ThemMon_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_The_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Order_TienMat_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.Properties.Resources.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThongKe_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_All_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_ChiTietMonAn_UserControl.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.ThucDon_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.TrangChu_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XemNguyenLieu.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.XepLich_Form.resources
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.GenerateResource.cache
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe.config
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.exe
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Quan_Ly_Nha_Hang.pdb
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\netstandard.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.AppContext.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Concurrent.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Collections.Specialized.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Console.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Data.Common.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Process.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Calendars.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Globalization.Extensions.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.Pipes.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Expressions.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Parallel.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Linq.Queryable.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Http.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NameResolution.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Ping.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Requests.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Security.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.Sockets.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Net.WebSockets.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ObjectModel.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Extensions.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Reflection.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Reader.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Resources.Writer.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Extensions.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Handles.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Numerics.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Claims.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.Principal.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Security.SecureString.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Overlapped.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Thread.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Timer.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XDocument.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.Interfaces.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Guna.UI2.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\EPPlus.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\Newtonsoft.Json.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\RestSharp.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Buffers.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.pdb
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Drawing.Common.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Memory.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu Đại Học\Năm 3 ( HK 1)\Hệ quản trị cơ sở dữ liệu\Đồ án\Đồ án quản lý nhà hàng_Final\Đồ án quản lý nhà hàng_Final\Quan_Ly_Nha_Hang\Quan_Ly_Nha_Hang\obj\Debug\Quan_Ly_.85D718D1.Up2Date

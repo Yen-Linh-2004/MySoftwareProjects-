@@ -1,0 +1,181 @@
+﻿@model List<WEB.Models.GIOHANG>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout_Main.cshtml";
+}
+
+section Styles {
+<style>
+    .cart-item {
+        border-bottom: 1px solid #eee;
+        padding: 15px 0;
+    }
+
+    .quantity-input {
+        width: 70px;
+        text-align: center;
+    }
+
+    .product-image {
+        max-width: 100px;
+        height: auto;
+    }
+
+    .cart-empty {
+        text-align: center;
+        padding: 30px;
+    }
+
+    .cart-total {
+        font-size: 1.2em;
+        margin-top: 20px;
+    }
+</style>
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12">
+            <h2 class="mb-4">Giỏ hàng của bạn</h2>
+
+            @if (Model != null && Model.Any())
+            {
+                <div class="cart-items">
+                    @foreach (var item in Model)
+                    {
+                        <div class="cart-item row align-items-center" data-id="@item.MaGioHang">
+                            <div class="col-md-2">
+                                <img src="@Url.Content(item.SANPHAM.HinhAnh)" alt="@item.SANPHAM.TenSanPham" class="product-image" />
+                            </div>
+                            <div class="col-md-4">
+                                <h5>@item.SANPHAM.TenSanPham</h5>
+                                <p class="text-muted">Đơn giá: @String.Format("{0:N0}", item.SANPHAM.GiaBan) VNĐ</p>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="form-group">
+                                    <input type="number"
+                                           class="form-control quantity-input"
+                                           value="@item.SoLuong"
+                                           min="1"
+                                           max="@item.SANPHAM.SoLuongTon"
+                                           onchange="updateQuantity(@item.MaGioHang, this.value)"
+                                           data-toggle="tooltip"
+                                           title="Số lượng tồn: @item.SANPHAM.SoLuongTon" />
+                                </div>
+                            </div>
+                            <div class="col-md-2 text-right">
+                                <strong>@String.Format("{0:N0}", item.TongTien) VNĐ</strong>
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <button class="btn btn-danger btn-sm" onclick="removeItem(@item.MaGioHang)">
+                                    <i class="fas fa-trash"></i> Xóa
+                                </button>
+                            </div>
+                        </div>
+                    }
+
+                    <div class="row mt-4">
+                        <div class="col-md-6">
+                            <a href="@Url.Action("Index", "Home")" class="btn btn-outline-primary">
+                                <i class="fas fa-arrow-left"></i> Tiếp tục mua sắm
+                            </a>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="cart-total text-right">
+                                <h4>Tổng tiền: <strong>@String.Format("{0:N0}", Model.Sum(x => x.TongTien)) VNĐ</strong></h4>
+                                <a href="@Url.Action("Checkout", "Cart")" class="btn btn-primary btn-lg mt-2">
+                                    <i class="fas fa-shopping-cart"></i> Tiến hành thanh toán
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="cart-empty">
+                    <div class="alert alert-info">
+                        <h4><i class="fas fa-shopping-cart"></i> Giỏ hàng của bạn đang trống</h4>
+                        <p class="mb-0">Hãy tiếp tục mua sắm để tìm những sản phẩm phù hợp với bạn.</p>
+                    </div>
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-3">
+                        <i class="fas fa-arrow-left"></i> Quay lại trang chủ
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+
+        function updateQuantity(cartItemId, quantity) {
+            $.ajax({
+                url: '@Url.Action("UpdateQuantity", "Cart")',
+                type: 'POST',
+                data: { cartItemId: cartItemId, quantity: quantity },
+                success: function(response) {
+                    if (response.success) {
+                        location.reload();
+                    } else {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Lỗi',
+                            text: response.message
+                        });
+                    }
+                },
+                error: function() {
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Lỗi',
+                        text: 'Có lỗi xảy ra khi cập nhật số lượng'
+                    });
+                }
+            });
+        }
+
+        function removeItem(cartItemId) {
+            Swal.fire({
+                title: 'Xác nhận xóa',
+                text: "Bạn có chắc muốn xóa sản phẩm này khỏi giỏ hàng?",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonText: 'Xóa',
+                cancelButtonText: 'Hủy',
+                reverseButtons: true
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    $.ajax({
+                        url: '@Url.Action("RemoveItem", "Cart")',
+                        type: 'POST',
+                        data: { cartItemId: cartItemId },
+                        success: function(response) {
+                            if (response.success) {
+                                location.reload();
+                            } else {
+                                Swal.fire({
+                                    icon: 'error',
+                                    title: 'Lỗi',
+                                    text: response.message
+                                });
+                            }
+                        },
+                        error: function() {
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'Lỗi',
+                                text: 'Có lỗi xảy ra khi xóa sản phẩm'
+                            });
+                        }
+                    });
+                }
+            });
+        }
+    </script>
+}

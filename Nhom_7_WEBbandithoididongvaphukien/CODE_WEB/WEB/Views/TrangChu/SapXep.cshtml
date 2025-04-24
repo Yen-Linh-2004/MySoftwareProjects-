@@ -1,0 +1,21 @@
+﻿
+
+<h1>Sắp xếp theo</h1>
+<ul class="nav nav-pills">
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" href="@Url.Action("PhoBien", "Product")" style="color: black;">Phổ biến</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" href="@Url.Action("MoiNhat", "Product")" style="color:black">Mới nhất</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" href="@Url.Action("BanChay", "Product")" style="color:black">Bán chạy</a>
+    </li>
+    <li class="dropdown">
+        <a class="nav-link" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: black; display: flex; justify-content: space-between">Giá <i class="fa fa-caret-down" style="margin:auto 0"></i></a>
+        <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="@Url.Action("SanPham_GiaGiam", "Product")">Giá Cao - Thấp</a></li>
+            <li><a class="dropdown-item" href="@Url.Action("SanPham_GiaTang", "Product")">Giá Thấp - Cao</a></li>
+        </ul>
+    </li>
+</ul>

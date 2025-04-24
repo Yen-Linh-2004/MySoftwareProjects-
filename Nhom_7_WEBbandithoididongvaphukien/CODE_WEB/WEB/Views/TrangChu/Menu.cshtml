@@ -1,0 +1,14 @@
+﻿@model  IEnumerable<WEB.Models.DANHMUC>
+
+@{
+    Layout = null;
+}
+
+<ul>
+    @foreach (var item in Model)
+     {
+        <li class="menu-link">
+            <a href="@Url.Action("SanPhamThemDM", "Product", new { @MaDM = item.MaDanhMuc })">@item.TenDanhMuc</a>
+        </li>
+     }
+</ul>

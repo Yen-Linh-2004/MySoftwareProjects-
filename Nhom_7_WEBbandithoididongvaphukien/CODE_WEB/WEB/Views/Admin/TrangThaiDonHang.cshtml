@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WEB.Models.HOADON>
+
+@{
+    ViewBag.Title = "Trạng thái đơn hàng";
+    Layout = "~/Views/Admin_Layout.cshtml";
+}
+
+
+<h2>Trạng thái đơn hàng</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã Hóa Đơn</th>
+            <th>Mã Khách Hàng</th>
+            <th>Mã Nhân Viên</th>
+            <th>Tổng Tiền</th>
+            <th>Trạng Thái Đơn Hàng</th>
+            <th>Phương Thức Thanh Toán</th>
+            <th>Trạng Thái Thanh Toán</th>
+            <th>Ngày Đặt Hàng</th>
+            <th>Ngày Giao Hàng</th>
+            <th>Ghi Chú</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaHoaDon</td>
+                <td>@item.MaKhachHang</td>
+                <td>@item.MaNhanVien</td>
+                <td>@item.TongTien</td>
+                <td>@item.TrangThaiDH</td>
+                <td>@item.PhuongThucTT</td>
+                <td>@item.TrangThaiTT</td>
+                <td>@item.NgayDatHang</td>
+                <td>@item.NgayGH</td>
+                <td>@item.GhiChu</td>
+            </tr>
+        }
+    </tbody>
+</table>

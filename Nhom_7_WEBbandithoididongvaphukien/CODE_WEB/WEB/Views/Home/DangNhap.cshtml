@@ -1,0 +1,36 @@
+﻿@model WEB.Models.USER
+
+@{
+    ViewBag.Title = "Đăng nhập";
+    Layout = "~/Views/_LayoutPage.cshtml"; // Sử dụng layout chính
+}
+
+<div class="containerdk">
+    <h2 class="dk">Đăng nhập</h2>
+
+    @* Form sử dụng phương thức POST để gửi dữ liệu về action DangNhap trong controller *@
+    @using (Html.BeginForm("DangNhap", "Home", FormMethod.Post, new { id = "loginForm" }))
+    {
+        <div class="form-group">
+            <label for="username">Tên đăng nhập</label>
+            @Html.TextBoxFor(model => model.Username, new { @class = "form-control", placeholder = "Nhập tên đăng nhập" })
+            @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            <label for="password">Mật khẩu</label>
+            @Html.PasswordFor(model => model.PasswordHash, new { @class = "form-control", placeholder = "Nhập mật khẩu" })
+            @Html.ValidationMessageFor(model => model.PasswordHash, "", new { @class = "text-danger" })
+        </div>
+
+        <center>
+            <button type="submit" class="btdk">Đăng nhập</button>
+        </center>
+
+        <p class="register-link">
+            Bạn chưa có tài khoản?
+            <a href="@Url.Action("DangKy", "Home")">Đăng ký ngay</a>
+        </p>
+    }
+
+</div>

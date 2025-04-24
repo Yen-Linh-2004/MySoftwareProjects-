@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - Ducy Store</title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="~/CSS/AdminStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Header -->
+    <header class="navbar navbar-expand-lg navbar-dark bg-primary p-3">
+        <a class="navbar-brand fw-bold text-uppercase" href="#">Admin Panel</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#adminNav" aria-controls="adminNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="adminNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link text-light" href="#"><i class="fas fa-user-circle me-2"></i>Admin</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active text-light" href="@Url.Action("DangNhap", "Home")"><i class="fas fa-sign-out-alt me-2"></i>Đăng Xuất</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Sidebar and Content -->
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <nav class="col-md-2 bg-light sidebar">
+                <div class="position-sticky">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="@Url.Action("Index", "Admin")">
+                                <i class="fas fa-tachometer-alt me-2"></i>Trang Chủ
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="@Url.Action("ListCustomers","Admin")">
+                                <i class="fas fa-users me-2"></i>Quản Lý Người Dùng
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="@Url.Action("ListEmployee","Admin")">
+                                <i class="fas fa-users me-2"></i>Quản Lý Nhân Viên
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" href="@Url.Action("ListProducts","Admin")">
+                                <i class="fas fa-boxes me-2"></i>Quản Lý Sản Phẩm
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" href="@Url.Action("TrangThaiDonHang","Admin")">
+                                <i class="fas fa-tasks me-2"></i>Trạng Thái Đơn Hàng
+                            </a>
+                        </li>
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <i class="fas fa-chart-line me-2"></i>Báo Cáo
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <i class="fas fa-cog me-2"></i>Cài Đặt
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4 py-4">
+                <h1 class="h2">Welcome, Admin</h1>
+                <div class="row">
+                    <!-- Card Doanh Thu -->
+                    <div class="col-md-4">
+                        <div class="card text-white shadow" style="background-color: #9370DB; border-radius: 20px;">
+                            <div class="card-body text-center">
+                                <h5 class="card-title"><i class="fas fa-dollar-sign me-2"></i>Doanh Thu</h5>
+                                <p class="card-text">Tổng doanh thu bán hàng</p>
+                                <h3 class="card-text">0 VNĐ</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card Số Lượng Người Dùng -->
+                    <div class="col-md-4">
+                        <div class="card text-white shadow" style="background-color: #8A2BE2; border-radius: 20px;">
+                            <div class="card-body text-center">
+                                <h5 class="card-title"><i class="fas fa-users me-2"></i>Số Lượng Người Dùng</h5>
+                                <p class="card-text">Tổng số người dùng hiện tại</p>
+                                <h3 class="card-text">20</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Card Số Lượng Sản Phẩm -->
+                    <div class="col-md-4">
+                        <div class="card text-white shadow" style="background-color: #6A5ACD; border-radius: 20px;">
+                            <div class="card-body text-center">
+                                <h5 class="card-title"><i class="fas fa-box me-2"></i>Số Lượng Sản Phẩm</h5>
+                                <p class="card-text">Tổng sản phẩm trong kho</p>
+                                <h3 class="card-text">89</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                @RenderBody()
+            </main>
+
+
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="text-center py-4 bg-primary text-light mt-auto">
+        <p>&copy; Ducy Store | Admin Panel</p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

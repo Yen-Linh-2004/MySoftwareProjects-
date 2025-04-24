@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/_LayoutPage.cshtml";
+    var pattern = "[a-zA-Z0-9._%+-]+@gmail.com$";
+}
+
+<div class="containerdk">
+    <h2 class="dk">Đăng ký</h2>
+
+
+    <form class="cta-form" method="post">
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="YenLinh@gmail.com" required  pattern="pattern" title="Email phải có định dạng example@gmail.com">
+        </div>
+        <div class="form-group">
+            <label for="full-name">Họ và tên</label>
+            <input type="text" id="full-name" name="full-name" placeholder="Nguyễn Trọng Yến Linh" required>
+        </div>
+        <div class="form-group">
+            <label for="phone">Số điện thoại</label>
+            <input type="tel" id="phone" name="phone" placeholder="012-345-6789" required>
+        </div>
+        <div class="form-group">
+            <label for="dob">Ngày tháng năm sinh</label>
+            <input type="date" id="dob" name="dob" required>
+        </div>
+        <div class="form-group">
+            <label for="password">Mật khẩu (ít nhất 6 ký tự)</label>
+            <input type="password" id="password" name="password" placeholder="********" required minlength="6">
+        </div>
+        <center><button type="submit" class="btdk"><a href="dangnhap.html"></a>Gửi</button></center>
+    </form>
+    
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        document.querySelector(".btn--form").addEventListener("click", function()
+        {
+            window.location.href = "dangnhap.html";
+        });
+    });
+    </script>
+
+
+</div>
+

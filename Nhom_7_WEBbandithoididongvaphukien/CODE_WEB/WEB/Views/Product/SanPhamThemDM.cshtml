@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WEB.Models.SANPHAM>
+
+@{
+    ViewBag.Title = "SanPhamThemDM";
+    Layout = "~/Views/Layout_Main.cshtml";
+}
+
+<div class="container grid grid--4-cols margin-bottom-sm">
+    @if (Model != null && Model.Any())
+    {
+        foreach (var item in Model)
+        {
+            <div class="phone phone-1" style="height:560px">
+                <a class="main-nav-link nav-a" style="text-decoration:none" href="@Url.Action("XemChiTiet", "Product", new { @id = item.MaSanPham })">
+                    <div style="height: 255px; display: flex; justify-content: center; align-items: center; margin:30px 0">
+                        <img src="~/Images/img_Product/@item.HinhAnh"
+                             alt="@item.TenSanPham"
+                             class="card-img-top img-fluid"
+                             style="width: 80%; height: 80%; object-fit: contain; margin: 30px 0px;"
+                             loading="lazy" />
+                    </div>
+                    <div class="phone-content">
+                        <span class="tag tag-new">Mới ra</span>
+                        <div style="height:65px">
+                            <p class="phone-title">@item.TenSanPham</p>
+                        </div>
+                        <ul class="phone-attributes mt-2">
+                            <li class="phone-attribute">
+                                <ion-icon class="phone-icon" name="cart-sharp"></ion-icon>
+                                <span><strong>@item.GiaBan</strong></span>
+                            </li>
+                            <li class="phone-attribute">
+                                <ion-icon class="phone-icon" name="star-outline"></ion-icon>
+                                <span><strong>4.1</strong> rating (210)</span>
+                            </li>
+                        </ul>
+                    </div>
+                </a>
+            </div>
+        }
+    }
+    else
+    {
+        <h2 style="color:red">Không có sách nào để hiển thị.</h2>
+    }
+</div>
+<div class="container all-recipes">
+    <a href="@Url.Action("SanPham_full", "Product")" class="link">Xem thêm &rarr;</a>
+</div>
